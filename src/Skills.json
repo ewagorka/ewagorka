@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "img":"https://github.com/ewagorka/Dot-E-Fy/blob/main/src/images/dotefy-mockup.png?raw=true",
+        "t":"Product Management",
+        "p":"Experienced in strategic planning, roadmap development, and project management, with a focus on driving product growth and enhancing user experience."
+    },
+    {
+        "id":1,
+        "img":"./src/images",
+        "t":"UI/UX Design",
+        "p":"Proficient in crafting intuitive and visually appealing, and responsive user interfaces using design tools like Figma and Adobe Creative Suite."
+    },
+    {
+        "id":2,
+        "img":"./src/images",
+        "t":"Web Development",
+        "p":"Skilled in front-end web development technologies such as HTML, CSS, JavaScript, React, and Bootstrap to create responsive and interactive web applications."
+    },
+    {
+        "id":3,
+        "img":"./src/images",
+        "t":"User Research",
+        "p":"Experienced in conducting user research, including surveys, interviews, and usability testing."
+    },
+    {
+        "id":4,
+        "img":"./src/images",
+        "t":"Team Leadership",
+        "p":"Proven ability to lead and collaborate with cross-functional teams, fostering a culture of innovation, collaboration, and continuous improvement."
+    },
+    {
+        "id":5,
+        "img":"./src/images",
+        "t":"Data Analytics",
+        "p":"Adept at utilising data analytics tools and techniques to analyse key metrics, derive insights, and make informed decisions for product development and strategy.s"
+    }
+]

@@ -1,0 +1,22 @@
+@import "../../index.css";
+
+.hero-row{
+    align-items: center;
+    padding-top: 24px;
+}
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem !important;
+}
+
+.hero-p{
+    color: var(--color-primary-100) !important;
+    font-size: 18px;
+}
+
+.hero-buttons{
+    display: flex;
+    gap: 16px;
+    margin-top: 36px;
+}
