@@ -1,0 +1,20 @@
+@import url("../../index.css");
+
+.about-me{
+    background: linear-gradient(180deg, #18191a 0%, #222324 100%);
+    padding-top: 48px;
+}
+
+.about-me-2{
+    background: linear-gradient(180deg, #222324 0%, #373838 100%);
+}
+
+.my-skills{
+    background: var(--color-surface-200, #373838);
+    padding: 48px 0;
+}
+
+.contact-me{
+    background: linear-gradient(180deg, #373838 0%, #18191a 100%);
+    padding: 48px 0;
+}
