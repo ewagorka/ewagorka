@@ -18,6 +18,6 @@
     flex-wrap:wrap;
     gap: 64px;
     justify-content: center !important;
-    align-items: center !important;
+    align-items: top !important;
     padding-top:48px;
 }
