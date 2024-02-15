@@ -5,6 +5,7 @@ import './App.css'
 
 import { Footer, Navbar } from './components';
 import { MyWork, Contact, Home } from './pages';
+import Revolancer from './pages/Revolancer/Revolancer';
 
 import "../src/index.css"
 
@@ -31,6 +32,7 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="/myWork" element={<MyWork />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path ="/revolancer" element={<Revolancer />} />
           </Routes>
         <Footer />
       </animated.main>

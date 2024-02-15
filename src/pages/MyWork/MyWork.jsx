@@ -12,10 +12,7 @@ const MyWork = () => {
 
   return (
     <section>
-      <ContentRow2
-      t= "My Work Portfolio"
-      >
-      </ContentRow2>
+      
       <ContentRow2
       t="Product and Design"
       p = "Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation."

@@ -11,7 +11,7 @@
     },
     {
         "index":1,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg1.png?raw=true",
         "t":"Team Profile Generator",
         "tags":["NodeJS","JavaScript","HTML"],
         "p":"A Node.js command-line application. It takes in information about employees on a software engineering team, then generate an HTML webpage that displays summaries for each person.",
@@ -21,7 +21,7 @@
     },
     {
         "index":2,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg2.png?raw=true",
         "t":"README generator",
         "tags":["JavaScript"],
         "p":"This is an app that generated a professional Github README file for any project. It will take user's input and create a quality README file with sections like: title, description, license, installation, usage, testing, and questions.",
@@ -31,7 +31,7 @@
     },
     {
         "index":3,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg3.png?raw=true",
         "t":"Watch Your Food",
         "tags":["HTML","JavaScript","CSS","APIs"],
         "p":"A website for generating ideas for movies and food based off of an ingredient.",
@@ -41,7 +41,7 @@
     },
     {
         "index":4,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg4.png?raw=true",
         "t":"Weather Forecast App",
         "tags":["HTML","JavaScript","CSS"],
         "p":"A weather forecast app that allows the user to enter a city name and display the weather forecast for today and the next 5 days.",
@@ -51,7 +51,7 @@
     },
     {
         "index":5,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg5.png?raw=true",
         "t":"Daily Planner App",
         "tags":["HTML","JavaScript","CSS"],
         "p":"A daily planner web app that displays the current day at the top, presents time blocks for business hours, and enables users to input and save events, persisting them between page refreshes.",
@@ -61,7 +61,7 @@
     },
     {
         "index":6,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg5-1.png?raw=true",
         "t":"Code-Quiz",
         "tags":["HTML","JavaScript","CSS"],
         "p":"A short, timed quiz on JavaScript fundamentals that stores high scores.",
