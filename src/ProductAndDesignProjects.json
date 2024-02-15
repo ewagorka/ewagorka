@@ -1,7 +1,7 @@
 [
     {
         "index":0,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/revolancerCover.png?raw=true",
         "t":"Revolancer Web App",
         "tags":["Product Management","UI/UX", "Product Lifecycle"],
         "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
@@ -11,10 +11,10 @@
     {
         "index":0,
         "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
-        "t":"Dotefy",
+        "t":"Brand Design System & Guidelines",
         "tags":["React","JavaScript","Figma"],
         "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
-        "link":"/contact",
+        "link":"/designSystemAndGuidelines",
         "b":"View Project"
     }
     

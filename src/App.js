@@ -6,6 +6,7 @@ import './App.css'
 import { Footer, Navbar } from './components';
 import { MyWork, Contact, Home } from './pages';
 import Revolancer from './pages/Revolancer/Revolancer';
+import DesignSystemAndGuidelines from "./pages/DesignSystemAndGuidelines/DesignSystemAndGuidelines"
 
 import "../src/index.css"
 
@@ -33,6 +34,7 @@ const App = () => {
             <Route path="/myWork" element={<MyWork />} />
             <Route path="/contact" element={<Contact />} />
             <Route path ="/revolancer" element={<Revolancer />} />
+            <Route path ="/designSystemAndGuidelines" element={<DesignSystemAndGuidelines />} />
           </Routes>
         <Footer />
       </animated.main>
