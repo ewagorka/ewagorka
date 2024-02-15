@@ -1,7 +1,7 @@
 [
     {
         "index":0,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg0.png?raw=true",
         "t":"Dotefy",
         "tags":["React","JavaScript","CSS","APIs"],
         "p":"Dotefy is a innovative lyrics search web app that helps you discover the deeper meaning of music. Powered by the Genius API, our platform empowers you to unravel the artist's true intentions and dive into the depths of their musical genius.",
