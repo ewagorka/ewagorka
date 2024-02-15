@@ -87,6 +87,8 @@ const Hero = () => {
             </div>
 
           </div>
+          <div className="col-md-1 hero-image">
+          </div>
           <div className="col-md-5 hero-image">
             <animated.img style={imageIntro} src={heroImage} alt="Woman listening to music on headphones" className="img-fluid"></animated.img>
           </div>
