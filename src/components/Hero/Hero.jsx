@@ -66,10 +66,10 @@ const Hero = () => {
       <div className="container">
         <div className="row hero-row">
           <div className="col-md-6 hero-text">
-            <animated.h1 style={rollIn}>👋 Hi, I’m Ewa</animated.h1>
-            <animated.p style={rollInSmall} className="hero-p">I'm a growth-oriented professional, passionate about driving company success through strategic project and product management.
+            <h1 style={rollIn}>👋 Hi, I’m Ewa</h1>
+            <p style={rollInSmall} className="hero-p">I'm a growth-oriented professional, passionate about driving company success through strategic project and product management.
               <br /><br />
-              Skilled in blending creativity, tech, and strategy, with expertise in product management, UI/UX design, and web development. Let's make something amazing happen!</animated.p>
+              Skilled in blending creativity, tech, and strategy, with expertise in product management, UI/UX design, and web development. Let's make something amazing happen!</p>
             <div className="hero-buttons">
               <NavLink
                 to="/mywork">
@@ -90,7 +90,7 @@ const Hero = () => {
           <div className="col-md-1 hero-image">
           </div>
           <div className="col-md-5 hero-image">
-            <animated.img style={imageIntro} src={heroImage} alt="Woman listening to music on headphones" className="img-fluid"></animated.img>
+            <img style={imageIntro} src={heroImage} alt="Woman listening to music on headphones" className="img-fluid"></img>
           </div>
         </div>
       </div>

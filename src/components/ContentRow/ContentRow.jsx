@@ -43,9 +43,9 @@ const ContentRow = ({ left, t, p, img, alt }) => {
 
     return (
 
-        <animated.div style={rollInExtraSmall} className="container">
+        <div style={rollInExtraSmall} className="container">
             {renderContent}
-        </animated.div>
+        </div>
     )
 }
 
