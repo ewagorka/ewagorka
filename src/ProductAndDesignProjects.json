@@ -1,0 +1,22 @@
+[
+    {
+        "index":0,
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "t":"Dotefy",
+        "tags":["React","JavaScript","Figma"],
+        "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
+        "link":"/contact",
+        "b":"View Project"
+    },
+    {
+        "index":0,
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
+        "t":"Dotefy",
+        "tags":["React","JavaScript","Figma"],
+        "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
+        "link":"/contact",
+        "b":"View Project"
+    }
+    
+    
+]

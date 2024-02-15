@@ -5,7 +5,7 @@ import Badge from 'react-bootstrap/Badge';
 import './ProjectCard.css'
 import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
 
-const ProjectCard = ({ img, t, p, link, b,openType, tags }) => {
+const ProjectCard = ({ img, t,tags, p, link, b,openType }) => {
 
     return (
         <article className="result-card">

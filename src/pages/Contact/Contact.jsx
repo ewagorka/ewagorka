@@ -1,64 +1,30 @@
 import React from 'react'
 
 import './Contact.css'
-//Spring
-import { useSpring, animated } from "@react-spring/web";
+
+import { ContentRow } from '../../components';
 
 const Contact = () => {
-
-  const [rollIn] = useSpring(
-    () => ({
-      from: {
-        opacity: 0,
-        transform: 'perspective(600px) rotateX(90deg)'
-      },
-      to: {
-        opacity: 1,
-        transform: 'perspective(600px) rotateX(0deg)'
-      },
-      config: { duration: 1000 }
-    }),
-    []
-  )
-
-  const [rollInExtraSmall] = useSpring(
-    () => ({
-      from: {
-        opacity: 0,
-        transform: 'perspective(600px) rotateX(15deg)'
-      },
-      to: {
-        opacity: 1,
-        transform: 'perspective(600px) rotateX(0deg)'
-      },
-      config: { duration: 1000 }
-    }),
-    []
-  )
-
-  const [fade] = useSpring(
-    () => ({
-      from: {
-        opacity: 0
-      },
-      to: {
-        opacity: 1
-      },
-      config: { duration: 1000 }
-    }),
-    []
-  )
-
   return (
     <section>
-      <div className="container">
+      <div className="container contact-container">
         <div className="row">
-          <div className="col-md-10">
-            <animated.h1 style={rollIn}>Contact Us</animated.h1>
-            <animated.p style={rollInExtraSmall}>
-              Got questions or ideas for future development?<br /><br />
-              We'd love to hear from you! Fill out the form below and let us know how we can assist you. Whether you have inquiries about our services, suggestions for new features, or any other requests, our team is here to listen and support you. </animated.p>
-          </div>
+          <ContentRow
+            left={false}
+            t={"Contact Me"}
+            p={
+              <>
+                Have a question or want to chat? Feel free to reach out to me. 🙌  <br />
+                You can contact me via email or connect with me on LinkedIn. I'd love to hear from you!
+                <br /><br />
+                Email: ewagorka99@gmail.com
+                <br /><br />
+                LinkedIn: <a href="https://www.linkedin.com/in/ewa-g%C3%B3rka-9003b2167/">My Profile</a>
+                <br /><br /><br />
+                Looking forward to hearing with you!
+              </>
+            }>
+          </ContentRow>
         </div>
       </div>
     </section>
