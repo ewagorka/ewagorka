@@ -13,7 +13,7 @@ const DesignSystemAndGuidelines = () => {
             <div className="container ">
                 <div className="row project-hero">
                     <div className="col-md-7 hero-text">
-                        <h1>Design System & Guidelines</h1>
+                        <h1>Design System & Brand Guidelines</h1>
                         <p>As the Head of Product at Revolancer, I recognised the importance of establishing a cohesive design framework to drive efficiency in development and maintain brand consistency across various channels. This case study explores my role in creating a comprehensive Design System in Figma, alongside guidelines to unify the team's understanding and execution of our brand vision.</p>
                     </div>
                     <div className="col-md-5 hero-image">

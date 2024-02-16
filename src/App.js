@@ -4,10 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
 
 import { Footer, Navbar } from './components';
-import { MyWork, Contact, Home } from './pages';
-import Revolancer from './pages/Revolancer/Revolancer';
-import DesignSystemAndGuidelines from "./pages/DesignSystemAndGuidelines/DesignSystemAndGuidelines"
-
+import { MyWork, Contact, Home, Revolancer, DesignSystemAndGuidelines, PlusPage } from './pages';
 import "../src/index.css"
 
 //Spring
@@ -35,6 +32,7 @@ const App = () => {
             <Route path="/contact" element={<Contact />} />
             <Route path ="/revolancer" element={<Revolancer />} />
             <Route path ="/designSystemAndGuidelines" element={<DesignSystemAndGuidelines />} />
+            <Route path ="/pluspage" element={<PlusPage />} />
           </Routes>
         <Footer />
       </animated.main>
