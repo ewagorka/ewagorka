@@ -19,11 +19,20 @@
     },
     {
         "index":2,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/redesignSystemCover.png?raw=true",
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/plusPageCover.png?raw=true",
         "t":"Plus.Page",
         "tags":["Product Development","Web Design","Figma"],
-        "p":"Established a comprehensive Design System in Figma for Revolancer, along with brand guidelines.",
+        "p":"Led the rapid development and successful launch of Plus.Page, a Linktree alternative tailored for freelancers.",
         "link":"/pluspage",
+        "b":"View Project"
+    },
+    {
+        "index":2,
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/plusPageCover.png?raw=true",
+        "t":"Hibernian FC Pitch Deck",
+        "tags":["Pitch Deck","Adobe XD","Figma"],
+        "p":"Created a compelling commercial pitch deck for Hibernian FC, leveraging the club's assets to attract potential advertisers.",
+        "link":"/hibernianFC",
         "b":"View Project"
     }
     
