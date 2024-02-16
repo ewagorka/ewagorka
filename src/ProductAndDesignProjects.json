@@ -4,17 +4,26 @@
         "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/revolancerCover.png?raw=true",
         "t":"Revolancer Web App",
         "tags":["Product Management","UI/UX", "Product Lifecycle"],
-        "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
+        "p":"Spearheaded the creation of Revolancer, a groundbreaking freelancing platform, from initial concept to launch.",
         "link":"/revolancer",
         "b":"View Project"
     },
     {
-        "index":0,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/photo-placeholder.png?raw=true",
-        "t":"Brand Design System & Guidelines",
-        "tags":["React","JavaScript","Figma"],
-        "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.",
+        "index":1,
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/redesignSystemCover.png?raw=true",
+        "t":"Design System & Guidelines",
+        "tags":["Design Systems","Figma","Brand Development"],
+        "p":"Established a comprehensive Design System in Figma for Revolancer, along with brand guidelines.",
         "link":"/designSystemAndGuidelines",
+        "b":"View Project"
+    },
+    {
+        "index":2,
+        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/redesignSystemCover.png?raw=true",
+        "t":"Plus.Page",
+        "tags":["Product Development","Web Design","Figma"],
+        "p":"Established a comprehensive Design System in Figma for Revolancer, along with brand guidelines.",
+        "link":"/pluspage",
         "b":"View Project"
     }
     

@@ -11,7 +11,7 @@ const MyWork = () => {
   const productAndDesignProjects = ProductAndDesignProjectList.map(project=> <ProjectCard {...project} key={project.id}/>)
 
   return (
-    <section>
+    <section className="my-work">
       
       <ContentRow2
       t="Product and Design"

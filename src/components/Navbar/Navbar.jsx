@@ -3,13 +3,14 @@ import { Link, NavLink } from 'react-router-dom';
 
 import './Navbar.css'
 import logo from "../../images/logo.png"
+import MenuRoundedIcon from '@mui/icons-material/MenuRounded';
 
 const Navbar = () => {
   return (
     <section className="container">
       <div className="row">
         <div className="col-md-12">
-          <nav className="navbar navbar-expand-lg navbar-light">
+          <nav className="navbar navbar-expand-lg navbar-dark">
             <Link className="navbar-brand" to="/">
               <div>
                 <img className="logo" src={logo} alt="Dotefy logo" />

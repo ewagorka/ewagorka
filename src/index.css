@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('http://fonts.cdnfonts.com/css/helvetica-neue-9');
 
 /* Variables */
 :root {
   --font-base: 'Lato', sans-serif;
-  --font-alt: 'Source Sans 3', sans-serif;
+  --font-alt: 'Inter', sans-serif;
   ;
   --color-primary-100: #FFF;
   --color-surface-100: #18191a;
@@ -58,13 +59,16 @@ h2{
   line-height: 56px !important;
 }
 h5{
+  font-family: var(--font-base) !important;
+  font-weight: 600 !important;
   color: var(--color-primary-100) !important;
   margin-bottom: 24 !important;
 }
 
 p {
   font-size: 16px;
-  font-family: var(--font-alt);
+  font-family: var(--font-alt)!important;
+  font-weight: 300 !important;
   margin: 0 !important;
   color: var(--color-primary-100);
 
