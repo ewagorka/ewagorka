@@ -4,7 +4,7 @@ import Home from './Home/Home';
 import Revolancer from './Revolancer/Revolancer';
 import DesignSystemAndGuidelines from './DesignSystemAndGuidelines/DesignSystemAndGuidelines';
 import PlusPage from './PlusPage/PlusPage';
-
+import HibernianFC from './HibernianFC/HibernianFC';
 
 export {
   MyWork,
@@ -12,5 +12,6 @@ export {
   Home,
   Revolancer,
   DesignSystemAndGuidelines,
-  PlusPage
+  PlusPage,
+  HibernianFC
 }

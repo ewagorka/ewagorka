@@ -1,12 +1,12 @@
 import React from 'react'
-import './PlusPage.css'
+import './HibernianFC.css'
 import PlusPageGrey from "../../images/plusPageGrey.png"
 import PlusPageHero from "../../images/plusPageHero.png"
 import PlusPageProcess from "../../images/plusPageProcess.png"
 import PlusPageMarketing from "../../images/plusPageMarketing.png"
 
 
-const PlusPage = () => {
+const HibernianFC = () => {
 
     return (
         <section className="jumbotron project-background">
@@ -73,4 +73,4 @@ const PlusPage = () => {
     )
 }
 
-export default PlusPage
+export default HibernianFC
