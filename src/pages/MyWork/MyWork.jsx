@@ -25,7 +25,7 @@ const MyWork = () => {
       <ContentRow2
       t="Front End Development"
       p ={ <>
-      "Featured projects showcasing my front-end development skills. Visit my<a href="https://github.com/ewagorka"> Github Profile</a> to see more.
+      Featured projects showcasing my front-end development skills. Visit my<a href="https://github.com/ewagorka"> Github Profile</a> to see more.
       </>
       }
       displayArea= 

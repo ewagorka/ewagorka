@@ -13,6 +13,10 @@
     padding-bottom: 64px;
 }
 
+.content-row2 p{
+    text-align: center;
+}
+
 .display-area{
     display: flex;
     flex-wrap:wrap;
