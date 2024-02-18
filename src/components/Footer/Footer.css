@@ -4,6 +4,12 @@ footer{
     background-color: var(--color-surface-100);   
     padding: 24px;
 }
+
+.footer-elements{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 footer .row{
     padding: 1rem 0rem !important;
 }
@@ -13,4 +19,13 @@ footer p{
     text-align: center;
     margin: 0 0;
     color: var(--color-primary-100);
+    display: inline;
+}
+.icons{
+    display: flex;
+    gap: 8px;
+}
+.icons img{
+    height: 32px;
+    width: auto;
 }

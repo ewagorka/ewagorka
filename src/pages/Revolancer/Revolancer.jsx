@@ -33,16 +33,16 @@ const Revolancer = () => {
                         <p>Our solution was informed by extensive research and user feedback, revealing a growing demand among freelancers for collaborative skill exchanges. This insight led us to develop a platform dedicated to facilitating such interactions, empowering freelancers to grow their businesses while reducing costs.</p>
                         <br />
                     </div>
-                    <div className="col-md-3 hero-image">
+                    <div className="col-md-3">
                     <img className="project-img" src={PlatformChange} alt="" />
                     </div>
                 </div>
 
                 <div className="row project-section">
-                <div className="col-md-4 hero-image">
+                <div className="col-md-4">
                     <img className="project-img" src={AgileGraphic} alt="" />
                     </div>
-                    <div className="col-md-8 ">
+                    <div className="col-md-8 left-paragraph">
                         <h5>The Process:</h5>
                         <p>My role in this transformation comprised several key phases:</p>
                         <br />
@@ -64,7 +64,7 @@ const Revolancer = () => {
                         <h5>The Outcome:</h5>
                         <p>Our collaborative efforts yielded significant results, with Revolancer attracting over 140,000 users within less than a year of its launch. This success underscores the effectiveness of our strategic approach and our commitment to meeting user needs.</p>
                     </div>
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                     <img className="project-img" src={RevolancerPhones} alt="" />
                     </div>
                 </div>

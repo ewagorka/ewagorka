@@ -32,16 +32,16 @@ const DesignSystemAndGuidelines = () => {
                         <p>I spearheaded the creation of a Design System in Figma. This system encompassed a range of design elements, including colour palette, typography, buttons, navigation, modals, pop-ups, forms, and bespoke Revolancer-specific components. By consolidating these elements into a single repository, we ensured consistency in both product design and marketing materials.</p>
                         <br />
                     </div>
-                    <div className="col-md-3 hero-image">
+                    <div className="col-md-3">
                         <img className="project-img" src={ConsistentBranding} alt="" />
                     </div>
                 </div>
 
                 <div className="row project-section">
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={DesignSystem} alt="" />
                     </div>
-                    <div className="col-md-8 ">
+                    <div className="col-md-8 left-paragraph">
                         <h5>The Process:</h5>
                         <br />
                         <ol>
@@ -70,7 +70,7 @@ const DesignSystemAndGuidelines = () => {
                         </ul>
 
                     </div>
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={DesignSystemOutcome} alt="" />
                     </div>
                 </div>

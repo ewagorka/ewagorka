@@ -10,6 +10,7 @@ import Slide3 from "../../images/Hibernian3.png"
 import Slide4 from "../../images/Hibernian4.png"
 import Slide5 from "../../images/Hibernian5.png"
 import Slide6 from "../../images/Hibernian6.png"
+import FormatQuoteRoundedIcon from '@mui/icons-material/FormatQuoteRounded';
 
 
 const HibernianFC = () => {
@@ -20,7 +21,7 @@ const HibernianFC = () => {
                 <div className="row project-hero">
                     <div className="col-md-7 hero-text">
                         <h1>Hibernian FC<br /> Pitch Deck</h1>
-                        <p>One of my most significant projects in my freelance journey was overseeing the creation of Hibernian FC's commercial partnership deck in collaboration with a skilled copywriter. This case study showcases the process of crafting a compelling pitch deck designed to appeal to potential advertisers and drive revenue growth for the club.</p>
+                        <p>One of my most significant projects in my freelance journey was overseeing the creation of Hibernian FC's commercial partnership deck in collaboration with a skilled copywriter, Gavin Gilmour. This case study showcases the process of crafting a compelling pitch deck designed to appeal to potential advertisers and drive revenue growth for the club.</p>
                     </div>
                     <div className="col-md-5 hero-image">
                         <img className="project-img" src={HibernianHero} alt="" />
@@ -38,16 +39,16 @@ const HibernianFC = () => {
                         <p>A professional pitch deck that highlighted Hibernian FC's strengths and unique selling points. Through strategic design and compelling messaging, we aimed to create a document that would effectively communicate the club's value proposition to potential advertisers, ultimately driving revenue growth through commercial partnerships.</p>
                         <br />
                     </div>
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={HibernianPhotos} alt="" />
                     </div>
                 </div>
 
                 <div className="row project-section">
-                <div className="col-md-3 hero-image">
+                    <div className="col-md-3">
                         <img className="project-img" src={HibernianProcess} alt="" />
                     </div>
-                    <div className="col-md-9 ">
+                    <div className="col-md-9 left-paragraph">
                         <h5>The Process:</h5>
                         <br />
                         <ol>
@@ -60,8 +61,8 @@ const HibernianFC = () => {
 
                 </div>
                 <div className="row project-section">
-                <h5>Featured Slides:</h5>
-                <div className="col-md-12 slide-gallery">
+                    <h5>Featured Slides:</h5>
+                    <div className="col-md-12 slide-gallery">
                         <img src={Slide1} alt="" />
                         <img src={Slide2} alt="" />
                         <img src={Slide3} alt="" />
@@ -73,12 +74,20 @@ const HibernianFC = () => {
                 </div>
 
                 <div className="row project-section">
-                    <div className="col-md-8 ">
+                    <div className="col-md-7 ">
                         <h5>The Outcome:</h5>
-                        <p>Dhe commercial partnership deck received positive feedback from the Hibernian FC team, with Murray Milligen, Hibs Commercial Manager, praising our professionalism and attention to detail. </p>
+                        <p>Dhe commercial partnership deck received positive feedback from the Hibernian FC team, with Murray Milligen, Hibs Commercial Manager, saying:   </p>
+                        <br />
+                        <div className="quote">
+                            <p> <FormatQuoteRoundedIcon />
+                                We commissioned Ewa and Gavin to produce our Commercial Partnerships Deck for season 22/23 at Hibernian Football Club. We were really impressed by the way they managed the project in a timely and efficient manner. The brief was followed very accurately and they were brilliant in offering creative advice in making tweaks and improvements. I would 100% recommend them, Gavin, and Ewa if you need a project turned around quickly and to a high, professional standard.
+                                <FormatQuoteRoundedIcon />
+                                <br /><br />
+                                – Murray Milligen, Hibs Commercial Manager
+                            </p>
+                        </div>
                     </div>
-                    <div className="col-md-4 hero-image">
-                        <img className="project-img" src={PlusPageMarketing} alt="" />
+                    <div className="col-md-5 hero-image">
                     </div>
                 </div>
 

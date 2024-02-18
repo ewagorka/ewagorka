@@ -24,7 +24,7 @@
         "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg2.png?raw=true",
         "t":"README generator",
         "tags":["JavaScript"],
-        "p":"This is an app that generated a professional Github README file for any project. It will take user's input and create a quality README file with sections like: title, description, license, installation, usage, testing, and questions.",
+        "p":"This is an app that generated a professional Github README file for any project. It takes user's input and creates a quality README file with sections like: title, description, license, installation, usage, testing, and questions.",
         "link":"https://github.com/ewagorka/readme-generator",
         "b":"View Project",
         "openType":"_blank"
@@ -34,8 +34,8 @@
         "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg3.png?raw=true",
         "t":"Watch Your Food",
         "tags":["HTML","JavaScript","CSS","APIs"],
-        "p":"A website for generating ideas for movies and food based off of an ingredient.",
-        "link":"A website for generating ideas for movies and food based off of an ingredient.",
+        "p":"A website for generating ideas for movies and food based off of an ingredient. Created with Spoonacular API and the OMDb API",
+        "link":"https://khnfarha1987.github.io/receipe-movies-project/",
         "b":"View Project",
         "openType":"_blank"
     },
@@ -46,26 +46,6 @@
         "tags":["HTML","JavaScript","CSS"],
         "p":"A weather forecast app that allows the user to enter a city name and display the weather forecast for today and the next 5 days.",
         "link":"https://ewagorka.github.io/Weather-Forecast-App/",
-        "b":"View Project",
-        "openType":"_blank"
-    },
-    {
-        "index":5,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg5.png?raw=true",
-        "t":"Daily Planner App",
-        "tags":["HTML","JavaScript","CSS"],
-        "p":"A daily planner web app that displays the current day at the top, presents time blocks for business hours, and enables users to input and save events, persisting them between page refreshes.",
-        "link":"https://ewagorka.github.io/daily-planner-app/",
-        "b":"View Project",
-        "openType":"_blank"
-    },
-    {
-        "index":6,
-        "img":"https://github.com/ewagorka/ewagorka/blob/main/src/images/projectImg5-1.png?raw=true",
-        "t":"Code-Quiz",
-        "tags":["HTML","JavaScript","CSS"],
-        "p":"A short, timed quiz on JavaScript fundamentals that stores high scores.",
-        "link":"https://ewagorka.github.io/Code-Quiz/",
         "b":"View Project",
         "openType":"_blank"
     }
