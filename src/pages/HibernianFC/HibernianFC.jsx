@@ -1,9 +1,15 @@
 import React from 'react'
 import './HibernianFC.css'
-import PlusPageGrey from "../../images/plusPageGrey.png"
-import PlusPageHero from "../../images/plusPageHero.png"
-import PlusPageProcess from "../../images/plusPageProcess.png"
+import HibernianProcess from "../../images/HibernianFCProcess.png"
+import HibernianHero from "../../images/HibernianHero.png"
+import HibernianPhotos from "../../images/HibernianPhotos.png"
 import PlusPageMarketing from "../../images/plusPageMarketing.png"
+import Slide1 from "../../images/Hibernian1.png"
+import Slide2 from "../../images/Hibernian2.png"
+import Slide3 from "../../images/Hibernian3.png"
+import Slide4 from "../../images/Hibernian4.png"
+import Slide5 from "../../images/Hibernian5.png"
+import Slide6 from "../../images/Hibernian6.png"
 
 
 const HibernianFC = () => {
@@ -13,11 +19,11 @@ const HibernianFC = () => {
             <div className="container ">
                 <div className="row project-hero">
                     <div className="col-md-7 hero-text">
-                        <h1>Plus.Page</h1>
-                        <p>Plus.Page was a new product designed to cater to freelancers of all levels, providing them with a sleek and versatile alternative to linktree. This case study delves into the journey of conceptualising, designing, and launching Plus.Page, and its subsequent impact on revenue generation for the company.</p>
+                        <h1>Hibernian FC<br /> Pitch Deck</h1>
+                        <p>One of my most significant projects in my freelance journey was overseeing the creation of Hibernian FC's commercial partnership deck in collaboration with a skilled copywriter. This case study showcases the process of crafting a compelling pitch deck designed to appeal to potential advertisers and drive revenue growth for the club.</p>
                     </div>
                     <div className="col-md-5 hero-image">
-                        <img className="project-img" src={PlusPageHero} alt="" />
+                        <img className="project-img" src={HibernianHero} alt="" />
                     </div>
                 </div>
 
@@ -25,34 +31,43 @@ const HibernianFC = () => {
                     <div className="col-md-8 ">
                         <h2>The Project</h2>
                         <br />
-                        <h5>The Challenge:</h5>
-                        <p>Tasked with developing a product that would resonate with freelancers and contribute to the company's revenue stream, I faced the challenge of creating an attractive and universal solution within a tight timeframe of two weeks. Plus.Page needed to offer simplicity, versatility, and appeal to freelancers regardless of their experience level.</p>
+                        <h5>The Task:</h5>
+                        <p>Hibernian FC required a presentation to attract advertisers for the 2022/23 season. They needed a comprehensive pitch deck that showcased key elements such as their reach, blanket coverage, audience demographic, and unique value propositions.</p>
                         <br />
                         <h5>The Solution:</h5>
-                        <p>To meet these challenges, I conceptualised Plus.Page as a simple yet powerful platform for freelancers to showcase their work and personal brand. Embracing a minimalist design approach and offering a wide range of colour palette options, I ensured that Plus.Page would be visually appealing and universally adaptable. Additionally, I designed a user-friendly website to serve as the storefront for selling Plus.Pages, enhancing the overall user experience.</p>
+                        <p>A professional pitch deck that highlighted Hibernian FC's strengths and unique selling points. Through strategic design and compelling messaging, we aimed to create a document that would effectively communicate the club's value proposition to potential advertisers, ultimately driving revenue growth through commercial partnerships.</p>
                         <br />
                     </div>
                     <div className="col-md-4 hero-image">
-                        <img className="project-img" src={PlusPageGrey} alt="" />
+                        <img className="project-img" src={HibernianPhotos} alt="" />
                     </div>
                 </div>
 
                 <div className="row project-section">
-                    <div className="col-md-4 hero-image">
-                        <img className="project-img" src={PlusPageProcess} alt="" />
+                <div className="col-md-3 hero-image">
+                        <img className="project-img" src={HibernianProcess} alt="" />
                     </div>
-                    <div className="col-md-8 ">
+                    <div className="col-md-9 ">
                         <h5>The Process:</h5>
                         <br />
-                        <p>To address the challenge of creating Plus.Page within a tight two-week timeframe, I embarked on a comprehensive process that encompassed research, design preparation, collaboration with the marketing team, and iterative development.</p>
-                        <br />
                         <ol>
-                            <li><b>Research and Feature Prioritisation:</b> I conducted thorough research to identify key features that could be feasibly incorporated into Plus.Page without compromising quality or usability. Prioritising simplicity, versatility, and user-friendliness, I pinpointed essential aspects of the product to ensure genuine value for freelancers.</li>
-                            <li><b>Design Preparation:</b> Meticulously preparing designs for all Plus.Page colour variants, I ensured a diverse range of options to cater to different freelancer preferences. Simultaneously, I crafted designs for the marketing page, focusing on clear messaging and compelling visuals to effectively communicate the value proposition of Plus.Page to potential users.</li>
-                            <li><b>Collaboration with Marketing Team:</b> Working closely with the marketing team, I identified and established collaborations with freelance influencers. Leveraging their reach and influence, we effectively promoted Plus.Page within the freelance community, amplifying its visibility and driving adoption rates.</li>
-                            <li><b>Iterative Development:</b> Adopting an iterative approach to development, I continuously refined features and designs based on feedback from internal stakeholders and potential users. This agile methodology ensured that Plus.Page evolved in response to user needs and market demands, enhancing its effectiveness and relevance within the freelance landscape.</li>
+                            <li><b>Understanding Club Expectations:</b> Prior to commencement, I engaged in discussions with the club's manager to fully grasp their expectations and vision for the commercial partnership deck, ensuring alignment with their objectives and requirements.</li>
+                            <li><b>Leveraging Company Assets:</b> Utilising Hibernian FC's brand assets, including logos, colours, and imagery, I created a visually cohesive and brand-aligned pitch deck. These elements were strategically incorporated to reinforce the club's identity and appeal to potential advertisers.</li>
+                            <li><b>Value-Driven Design:</b> Each slide was meticulously crafted to highlight the value proposition for potential advertisers. From showcasing the club's rich history and fan base to outlining sponsorship opportunities and marketing benefits, every aspect of the deck was designed to resonate with advertisers' needs and objectives.</li>
+                            <li><b>Client Collaboration:</b> Throughout the process, I maintained open communication with the client, seeking their input and feedback to ensure the deck aligned with their goals and expectations. Regular updates and revisions were made based on their feedback, ensuring the final product met their requirements.</li>
                         </ol>
-                        <br />
+                    </div>
+
+                </div>
+                <div className="row project-section">
+                <h5>Featured Slides:</h5>
+                <div className="col-md-12 slide-gallery">
+                        <img src={Slide1} alt="" />
+                        <img src={Slide2} alt="" />
+                        <img src={Slide3} alt="" />
+                        <img src={Slide4} alt="" />
+                        <img src={Slide5} alt="" />
+                        <img src={Slide6} alt="" />
                     </div>
 
                 </div>
@@ -60,7 +75,7 @@ const HibernianFC = () => {
                 <div className="row project-section">
                     <div className="col-md-8 ">
                         <h5>The Outcome:</h5>
-                        <p>Despite the tight timelines, Plus.Page emerged as a resounding success, offering freelancers a simple yet powerful platform to showcase their work and personal brand. Collaborations with freelance influencers further amplified Plus.Page's visibility, driving strong adoption rates and revenue growth for the company.</p>
+                        <p>Dhe commercial partnership deck received positive feedback from the Hibernian FC team, with Murray Milligen, Hibs Commercial Manager, praising our professionalism and attention to detail. </p>
                     </div>
                     <div className="col-md-4 hero-image">
                         <img className="project-img" src={PlusPageMarketing} alt="" />
