@@ -32,16 +32,16 @@ const PlusPage = () => {
                         <p>To meet these challenges, I conceptualised Plus.Page as a simple yet powerful platform for freelancers to showcase their work and personal brand. Embracing a minimalist design approach and offering a wide range of colour palette options, I ensured that Plus.Page would be visually appealing and universally adaptable. Additionally, I designed a user-friendly website to serve as the storefront for selling Plus.Pages, enhancing the overall user experience.</p>
                         <br />
                     </div>
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={PlusPageGrey} alt="" />
                     </div>
                 </div>
 
                 <div className="row project-section">
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={PlusPageProcess} alt="" />
                     </div>
-                    <div className="col-md-8 ">
+                    <div className="col-md-8 left-paragraph">
                         <h5>The Process:</h5>
                         <br />
                         <p>To address the challenge of creating Plus.Page within a tight two-week timeframe, I embarked on a comprehensive process that encompassed research, design preparation, collaboration with the marketing team, and iterative development.</p>
@@ -62,7 +62,7 @@ const PlusPage = () => {
                         <h5>The Outcome:</h5>
                         <p>Despite the tight timelines, Plus.Page emerged as a resounding success, offering freelancers a simple yet powerful platform to showcase their work and personal brand. Collaborations with freelance influencers further amplified Plus.Page's visibility, driving strong adoption rates and revenue growth for the company.</p>
                     </div>
-                    <div className="col-md-4 hero-image">
+                    <div className="col-md-4">
                         <img className="project-img" src={PlusPageMarketing} alt="" />
                     </div>
                 </div>

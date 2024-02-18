@@ -2,7 +2,3 @@
 .contact-container{
     height: 78vh;
 }
-
-a{
-    color: var(--color-surface-600) !important;
-}
