@@ -23,7 +23,7 @@ const App = () => {
   })
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <animated.main style={fade}>
         <Navbar />
           <Routes>
