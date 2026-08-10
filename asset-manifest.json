@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ewagorka/static/css/main.2b956e5c.css",
+    "main.js": "/ewagorka/static/js/main.3dea785c.js",
+    "static/media/HibernianHero.png": "/ewagorka/static/media/HibernianHero.846c482c9fc96f97cf45.png",
+    "static/media/plusPageHero.png": "/ewagorka/static/media/plusPageHero.e480792feb3b023e9653.png",
+    "static/media/image-hero.png": "/ewagorka/static/media/image-hero.afdcf11f3779c67890f0.png",
+    "static/media/Hibernian5.png": "/ewagorka/static/media/Hibernian5.981ddeec11171263a7f9.png",
+    "static/media/plusPageProcess.png": "/ewagorka/static/media/plusPageProcess.7b108c6bd22424af5060.png",
+    "static/media/Hibernian1.png": "/ewagorka/static/media/Hibernian1.51e9760134b7e6110730.png",
+    "static/media/Hibernian2.png": "/ewagorka/static/media/Hibernian2.8b89a5896648caa8cabd.png",
+    "static/media/revolancerLaptop.png": "/ewagorka/static/media/revolancerLaptop.777abf7fb36ab6871e73.png",
+    "static/media/Hibernian6.png": "/ewagorka/static/media/Hibernian6.d5f39b8db189b123febc.png",
+    "static/media/Hibernian3.png": "/ewagorka/static/media/Hibernian3.db93617dd4adfa79ca9a.png",
+    "static/media/Hibernian4.png": "/ewagorka/static/media/Hibernian4.5ad6ef04ea25772210fd.png",
+    "static/media/img2.png": "/ewagorka/static/media/img2.2b68041ba88306e619b5.png",
+    "static/media/plusPageGrey.png": "/ewagorka/static/media/plusPageGrey.24b6e80bafdfcbc27f0b.png",
+    "static/media/HibernianPhotos.png": "/ewagorka/static/media/HibernianPhotos.0d1d741423dfbc167c16.png",
+    "static/media/designSystem.png": "/ewagorka/static/media/designSystem.581a2f0c6ba3c0c110b9.png",
+    "static/media/consistentBranding.png": "/ewagorka/static/media/consistentBranding.abe4b468c31186396d63.png",
+    "static/media/design&guidelines.png": "/ewagorka/static/media/design&guidelines.e261f6d2a352a85d4be4.png",
+    "static/media/img1.png": "/ewagorka/static/media/img1.cd49570b023785fdc925.png",
+    "static/media/HibernianFCProcess.png": "/ewagorka/static/media/HibernianFCProcess.9f80f43aeb1a15d1b36e.png",
+    "static/media/plusPageMarketing.png": "/ewagorka/static/media/plusPageMarketing.700ce9bc2951a87db691.png",
+    "static/media/designSystemOutcome.png": "/ewagorka/static/media/designSystemOutcome.96670a478faec0b0d2e4.png",
+    "static/media/agile.png": "/ewagorka/static/media/agile.0f988bafb16554f04204.png",
+    "static/media/revolancerPhones.png": "/ewagorka/static/media/revolancerPhones.2482835a38f5ea81bf54.png",
+    "static/media/platformChange.png": "/ewagorka/static/media/platformChange.a91b0307ff5d7afa2dca.png",
+    "index.html": "/ewagorka/index.html",
+    "main.2b956e5c.css.map": "/ewagorka/static/css/main.2b956e5c.css.map",
+    "main.3dea785c.js.map": "/ewagorka/static/js/main.3dea785c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b956e5c.css",
+    "static/js/main.3dea785c.js"
+  ]
+}
