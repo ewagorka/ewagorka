@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ewagorka/static/css/main.2b956e5c.css",
-    "main.js": "/ewagorka/static/js/main.3dea785c.js",
+    "main.js": "/ewagorka/static/js/main.e7a6046d.js",
     "static/media/HibernianHero.png": "/ewagorka/static/media/HibernianHero.846c482c9fc96f97cf45.png",
     "static/media/plusPageHero.png": "/ewagorka/static/media/plusPageHero.e480792feb3b023e9653.png",
     "static/media/image-hero.png": "/ewagorka/static/media/image-hero.afdcf11f3779c67890f0.png",
@@ -28,10 +28,10 @@
     "static/media/platformChange.png": "/ewagorka/static/media/platformChange.a91b0307ff5d7afa2dca.png",
     "index.html": "/ewagorka/index.html",
     "main.2b956e5c.css.map": "/ewagorka/static/css/main.2b956e5c.css.map",
-    "main.3dea785c.js.map": "/ewagorka/static/js/main.3dea785c.js.map"
+    "main.e7a6046d.js.map": "/ewagorka/static/js/main.e7a6046d.js.map"
   },
   "entrypoints": [
     "static/css/main.2b956e5c.css",
-    "static/js/main.3dea785c.js"
+    "static/js/main.e7a6046d.js"
   ]
 }
